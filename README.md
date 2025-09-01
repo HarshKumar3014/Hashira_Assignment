@@ -116,12 +116,12 @@ a6 = 1
 
 ## ⚙️ How to Run
 
-1. Save the file as `hashira.js`.
+1. Save the file as `assignment.js`.
 2. Install Node.js if not already installed.
 3. Run the script:
 
 ```bash
-node hashira.js
+node assignment.js
 ```
 
 ## 🛠️ Features
